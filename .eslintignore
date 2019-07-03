@@ -1,0 +1,9 @@
+/build/
+/config/
+/dist/
+/*.js
+/test/unit/coverage/
+/package.json
+/component/ViewTwo.vue
+/component/qipa1Component.vue
+/component/qipa2Component.vue
